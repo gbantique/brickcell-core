@@ -1,0 +1,33 @@
+{
+    "name": "brickcell-core",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "brickcell-core.ts",
+        "brickcell-helper.ts",
+        "brickcell-lcd-i2c.ts",
+        "brickcell-motor.ts",
+        "brickcell-sensor.ts",
+        "brickcell-fine-dust.ts",
+        "test-fine-dust.md",
+        "test-lcd-i2c.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
