@@ -28,5 +28,9 @@ To edit this repository in MakeCode.
 
 I would like to express my respect and thanks to the following wonderful people for sharing their works:
 
-[i2cLCD1602](https://github.com/makecode-extensions/i2cLCD1602)
+### 1. lcd i2c: 
+[[i2cLCD1602](https://github.com/makecode-extensions/i2cLCD1602)](https://github.com/makecode-extensions/i2cLCD1602)
+
+### 2. dht11:
+[https://github.com/alankrantas/pxt-DHT11_DHT22/blob/master/dht11_dht22.ts](https://github.com/alankrantas/pxt-DHT11_DHT22/blob/master/dht11_dht22.ts)
 
